@@ -1,2 +1,3 @@
 update from command line at rls command line
 first line from dev branch on sourcetree
+creating a new branch is quick AND simple.
