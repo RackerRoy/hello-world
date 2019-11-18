@@ -3,4 +3,5 @@ first line from dev branch on sourcetre
 commond line input by roy
 first line from master branch on sourcetree
 test for diff function
-253ebe765135151b0e000eb
+253ebe765135151b0e000e
+one more line from commandb
