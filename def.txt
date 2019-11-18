@@ -1,5 +1,2 @@
 update from command line at rls command line
-first line from master branch on sourcetree
-test for diff function
-two more line
-two more same line
+
